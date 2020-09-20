@@ -11,6 +11,7 @@
 * [HeadHunter](https://spb.hh.ru/applicant/resumes/view?)
 * [Instagram](https://www.instagram.com/ueberforelle/)
 * [Telegram](https://t.me/Burundutski)
+* [GitHub](https://github.com/SvetlanaBo)
 
 
 ## PERSONAL SUMMARY
